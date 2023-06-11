@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="coo">Latitude e Longitude:</string>
+    <string name="para">GPS</string>
+</resources>
